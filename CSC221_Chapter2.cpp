@@ -9,7 +9,7 @@
 //Course: CSC 221
 //Programmer: Aslihan Celik
 //Date: 09/26/2024
-//
+//Assignment: Chapter 2 Exercise 7 Revised
 
 
 #include <iostream>
