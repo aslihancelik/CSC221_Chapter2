@@ -4,7 +4,10 @@
 // 1) Purchase one or more energy drinks per week
 // 2) Preferring citrus-flavored energy drinks
 //
-//Programmer: Aslihan Celik
+// Course: CSC 221
+// Programmer: Aslihan Celik
+// Date: 09/26/2024
+// Assignment: Chapter 2 Exercise 18
 
 #include <iostream>
 using namespace std;
