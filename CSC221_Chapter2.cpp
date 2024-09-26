@@ -18,7 +18,7 @@ using namespace std;
 
 int main()
 {
-
+    //Declaring the variables that will be used to hold the value of ocean level in 5, 7 and 10 years
     double oceanLevelIn5Years, oceanLevelIn7Years, oceanLevelIn10Years;
 
     //Ocean Rise Multiplier per year in millimeters
